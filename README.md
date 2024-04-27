@@ -1,10 +1,7 @@
 # Hello, I'm Cédric! 👋
 
 ## About Me 🚀
-I'm a 23-year-old developer from Montpellier, passionate about coding and technology. I am constantly on the lookout for learning and exploring new technologies. Currently, I am working on a couple of exciting projects:
-
-- **WebJobApplier**: A tool designed to automate job applications for .NET and Python positions, utilizing AI to enhance job-matching accuracy.
-- **CarShareAPI**: Developed for a fictive company, this API manages vehicle renting and carpool services, ensuring efficient and scalable solutions.
+I'm a 23-year-old developer from Montpellier-France , passionate about coding and technology. I am constantly on the lookout for learning and exploring new technologies.
 
 I'm eager to collaborate on projects and am actively seeking opportunities that will challenge me and expand my skill set.
 
