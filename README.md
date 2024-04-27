@@ -1,4 +1,4 @@
-# Hello, I'm [Cédric]! 👋
+# Hello, I'm Cédric! 👋
 
 ## About Me 🚀
 I'm a 23-year-old developer from Montpellier, passionate about coding and technology. I am constantly on the lookout for learning and exploring new technologies. Currently, I am working on a couple of exciting projects:
