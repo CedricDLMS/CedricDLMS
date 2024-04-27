@@ -9,11 +9,11 @@ I'm a 23-year-old developer from Montpellier, passionate about coding and techno
 I'm eager to collaborate on projects and am actively seeking opportunities that will challenge me and expand my skill set.
 
 ## Projects 🌟
-1. **WebJobApplier**
+1. [**WebJobApplier**](https://github.com/CedricDLMS/WebJobApplier)
    - An automated tool for applying to tech jobs.
    - Technologies: .NET, Python, AI
 
-2. **CarShareAPI**
+2. [**CarShareAPI**](https://github.com/toccoflorian/Digiliberte-back)
    - A robust API for managing vehicle rentals and carpool operations.
    - Technologies: .NET, C#, Entity Framework, SQL
 
@@ -38,8 +38,8 @@ I'm eager to collaborate on projects and am actively seeking opportunities that 
 
 ## Connect with Me 🤝
 
-- **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/cedricdlms/)
-- **Email:** [Your Email](mailto:delmascede@gmail.com)
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/cedricdlms/)
+- **Email:** [Email](mailto:delmascede@gmail.com)
 
 ## Looking Forward 🔭
 
