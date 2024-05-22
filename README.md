@@ -42,4 +42,8 @@ I'm eager to collaborate on projects and am actively seeking opportunities that 
 
 I am always interested in new projects and opportunities. If you have an idea you'd like to discuss or need help with a project, feel free to reach out!
 
+## Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CedricDLMS)](https://github.com/anuraghazra/github-readme-stats)
+
 
